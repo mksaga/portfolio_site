@@ -1,4 +1,9 @@
+# Ignore
+
 _site
 .sass-cache
 .jekyll-metadata
-assets/pdf/
+assets/pdf/cv.pdf
+
+# Allow
+!assets/pdf
